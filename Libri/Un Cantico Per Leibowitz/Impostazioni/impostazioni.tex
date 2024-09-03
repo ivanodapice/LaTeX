@@ -13,7 +13,7 @@ final 		% Per una copia pronta alla stampa.
 % article 		% La tipografia simula la classe dell'articolo.
 % twocolumn		% Due colonne di testo.
 % draft 		% In questo modo le linee strabordanti vengono contrassegnate da barre nere e si possono visualizzare alcuni segni di modifica. Possono verificarsi anche altri effetti, in particolare se si utilizzano alcuni pacchetti.
-%showtrims 		% Prints marks at the corners of the sheet so that you can see where the stock must be trimmed to produce the final page size.
+%showtrims 		% Stampa i segni agli angoli del foglio in modo da poter vedere dove la carta deve essere tagliata per ottenere il formato finale della pagina.
 
 %----------DOCUMENT SETTINGS----------%
 
@@ -50,12 +50,32 @@ expansion=true
 %\setlrmarginsandblock{0.1\paperwidth}{*}{1} 	% Margine destro e sinistro.
 %\setulmarginsandblock{0.1\paperwidth}{*}{1}  	% Margine superiore e inferiore.
 %\checkandfixthelayout[fixed]{} 				% Ho messo questo per sicurezza, per assicurare che il layout precedente sia fisso.
+
 %\usepackage[paperwidth=148mm, paperheight=210mm,bindingoffset=0mm]{geometry}
-\setlrmarginsandblock{10mm}{18mm}{*}
-\setulmarginsandblock{25mm}{*}{*}
+
+\setlrmarginsandblock{18mm}{10mm}{*}
+\setulmarginsandblock{22mm}{*}{*}
 \setheaderspaces{*}{*}{1.618}
 \checkandfixthelayout 
-%\OnehalfSpacing								$ Se vuoi verticalizzare il testo con più spazio
+
+% Se vuoi verticalizzare il testo con più spazio:
+
+\usepackage{setspace}
+
+%\OnehalfSpacing								% Prima di \begin{document} influenzi l'intero documento
+												% Tra \begin{document} e \maketitle influenza l'intero documento
+												% Dopo \maketitle influisce su tutto il documento tranne che sul titolo
+												
+% O in alternativa
+												
+%\linespread{1.25}								% Prima di \begin{document}, influenza l'intero documento
+												% Tra \begin{document} e \maketitle influenza solo il titolo
+												% Dopo \maketitle non ha effetto
+% O in alternativa
+
+%\spacing{1.25}									% Prima di \begin{document} influenza l'intero documento
+												% Tra \begin{document} e \maketitle influenza l'intero documento
+												% Dopo \maketitle influisce su tutto il documento tranne che sul titolo
 
 %--------------PAGE LAYOUT------------%
 
@@ -129,19 +149,13 @@ expansion=true
 	%% end Zallman.sty
 \end{filecontents}
 
-\usepackage{enumitem,Zallman,Acorn,GoudyIn,lettrine,textalpha,GoudyIn,needspace,textcase}	% Pacchetto DropCap.
-\renewcommand\LettrineFontHook{\color{red}\Zallmanfamily} 									% Pacchetto DropCap per usare lettrine.
-\newcommand{\checklettrine}
-	{
-		\ifnum\prevgraf<\lettrinelines
-		\wlog{\prevgraf}
-		\Repeat{\fpeval{\lettrinelines-\prevgraf}}{\hfill \\}
-		\indent
-		\fi
-	}
-\newcommand{\lettrinelines}{5}
-\linespread{0.8}
-
+\usepackage{enumitem,Zallman,Acorn,GoudyIn,lettrine,textalpha,GoudyIn,needspace,textcase,xpatch}	% Pacchetto DropCap.
+\renewcommand\LettrineFontHook{\color{red}\Zallmanfamily} 											% Pacchetto DropCap per usare lettrine.
+\pretocmd{\lettrine}{\checklettrine}{}{}
+\newcommand{\checklettrine}{%
+	\ifnum\prevgraf<2 \vspace{\baselineskip}\fi
+}
+\SingleSpacing*
 %----------------LETTRINE-------------%
 
 %----------------DEDICA---------------%
@@ -159,6 +173,20 @@ expansion=true
 }
 
 %----------------DEDICA---------------%
+
+%--------------PAGESTYLE--------------%
+
+\pagestyle{headings} 	% Scelta dello stile di pagina e dello stile del capitolo.
+						% empty , plain , headings , ruled , Ruled , companion
+						% https://ctan.mirror.garr.it/mirrors/ctan/macros/latex/contrib/memoir/memman.pdf
+						% Pagina 156: 7. PAGINATION AND HEADERS
+%\makeevenhead{ruled}{\leftmark}{}{}
+%\makeoddhead{ruled}{}{}{\leftmark}
+%\makeevenfoot{ruled}{}{\thepage}{}
+%\makeoddfoot{ruled}{}{\thepage}{}
+%\pagestyle{ruled}
+
+%--------------PAGESTYLE--------------%
 
 %---------------TINYTEXT--------------%
 \newlength\myheight
@@ -182,3 +210,16 @@ expansion=true
 	}%									% \img{imm.png}
 }
 %---------------TINYTEXT--------------%
+
+%-----------=-----BLANK---------------%
+
+\usepackage{afterpage}
+	
+\newcommand\blankpage{					% Per aggiungere una pagina bianca dopo quella di inserimento
+	\null								%
+	\thispagestyle{empty}				% Scrivere \afterpage{\blankpage} dove vuoi che ci sia una pagina bianca dopo
+	\addtocounter{page}{-1}
+	\newpage
+}
+
+%-----------=-----BLANK---------------%
