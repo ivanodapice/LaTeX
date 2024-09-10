@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.9.7)  8 SEP 2024 17:45
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.9.7)  9 SEP 2024 16:01
  restricted system commands enabled.
 **"Un cantico per Leibowitz.tex"
 ("./Un cantico per Leibowitz.tex"
@@ -77,8 +77,8 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 
 (c:/texlive/2024/texmf-dist/tex/latex/memoir/mem10.clo
 File: mem10.clo 2022/07/29 v0.5 memoir class 10pt size option
-luaotfload | db : Font names database not found, generating new one.
-luaotfload | db : This can take several minutes; please be patient.)
+luaotfload | db : Font names database loaded from C:/texlive/2024/texmf-var/luat
+ex-cache/generic/names/luaotfload-names.luc.gz)
 \binding=\skip54
 \spinemargin=\skip55
 \foremargin=\skip56
@@ -1510,9 +1510,7 @@ Package luatex.def Info: Immagini/DiracEdizioniLogo.png  used on input line 74.
 (luatex.def)             Requested size: 9.47285pt x 9.47285pt.
 
 
-[4
-
-]
+[4]
 LaTeX Font Info:    Font shape `TU/GaramondLibre(0)/m/n' will be
 (Font)              scaled to size 7.0pt on input line 81.
 LaTeX Font Info:    Font shape `TU/GaramondLibre(0)/m/it' will be
@@ -2731,7 +2729,7 @@ Here is how much of LuaTeX's memory you used:
    10 hlist, 2 vlist, 2 rule, 3 disc, 1 local_par, 9 glue, 6 kern, 1 penalty, 14
  glyph, 32 attribute, 205 glue_spec, 18 attribute_list, 3 write, 6 pdf_colorstac
 k nodes
-   avail lists: 1:4,2:968,3:211,4:86,5:344,6:83,7:11984,8:2,9:432,10:36,11:1841
+   avail lists: 1:2,2:968,3:211,4:86,5:344,6:83,7:11984,8:2,9:432,10:36,11:1841
  48756 multiletter control sequences out of 65536+600000
  84 fonts using 21169407 bytes
  107i,13n,124p,6868b,471s stack positions out of 10000i,1000n,20000p,200000b,200000s
