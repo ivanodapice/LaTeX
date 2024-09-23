@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.9.7)  18 SEP 2024 01:13
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.9.7)  18 SEP 2024 01:54
  restricted system commands enabled.
 **"Il gioco di Ender.tex"
 ("./Il gioco di Ender.tex"
@@ -1206,12 +1206,12 @@ Stock height and width: 597.50787pt by 421.10078pt
 Top and edge trims: 0pt and 0pt
 Page height and width: 597.50787pt by 421.10078pt
 Text height and width: 478pt by 341pt
-Spine and edge margins: 51.21495pt and 28.45274pt
+Spine and edge margins: 28.45274pt and 51.21495pt
 Upper and lower margins: 62.59605pt and 56.91182pt
 Headheight and headsep: 12pt and 31.26317pt
 Footskip: 25.29494pt
 Columnsep and columnseprule: 10pt and 0pt
-Marginparsep and marginparwidth: 7pt and 14.45274pt
+Marginparsep and marginparwidth: 7pt and 37.21495pt
 Sidecapsep and sidecapwidth: 7pt and 51pt
 Sidebarhsep and sidebarwidth: 7pt and 51pt
 Sidebarvsep and sidebartopsep: 12pt and 0pt
@@ -2231,7 +2231,7 @@ Here is how much of LuaTeX's memory you used:
  1377 words of node memory still in use:
    8 hlist, 2 vlist, 2 rule, 1 local_par, 8 glue, 4 kern, 1 penalty, 1 margin_ke
 rn, 4 glyph, 16 attribute, 205 glue_spec, 10 attribute_list, 3 write nodes
-   avail lists: 1:2,2:844,3:186,4:72,5:322,6:81,7:10291,8:1,9:358,10:33,11:1578
+   avail lists: 1:2,2:845,3:186,4:72,5:322,6:81,7:10291,8:1,9:358,10:33,11:1578
  49734 multiletter control sequences out of 65536+600000
  73 fonts using 17290895 bytes
  107i,12n,124p,1015b,533s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -2240,7 +2240,7 @@ oldItalic.otf><c:/texlive/2024/texmf-dist/fonts/opentype/public/garamond-libre/G
 aramondLibre-Italic.otf><c:/texlive/2024/texmf-dist/fonts/opentype/public/garamo
 nd-libre/GaramondLibre-Bold.otf><c:/texlive/2024/texmf-dist/fonts/opentype/publi
 c/garamond-libre/GaramondLibre-Regular.otf>
-Output written on Il gioco di Ender.pdf (271 pages, 9644773 bytes).
+Output written on Il gioco di Ender.pdf (271 pages, 9644941 bytes).
 
 PDF statistics: 888 PDF objects out of 1000 (max. 8388607)
  594 compressed objects within 6 object streams
