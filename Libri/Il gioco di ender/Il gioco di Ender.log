@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.9.7)  18 SEP 2024 01:54
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.9.7)  25 SEP 2024 20:53
  restricted system commands enabled.
 **"Il gioco di Ender.tex"
 ("./Il gioco di Ender.tex"
@@ -1205,13 +1205,13 @@ Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 Stock height and width: 597.50787pt by 421.10078pt
 Top and edge trims: 0pt and 0pt
 Page height and width: 597.50787pt by 421.10078pt
-Text height and width: 478pt by 341pt
-Spine and edge margins: 28.45274pt and 51.21495pt
+Text height and width: 478pt by 349pt
+Spine and edge margins: 28.45274pt and 42.67912pt
 Upper and lower margins: 62.59605pt and 56.91182pt
 Headheight and headsep: 12pt and 31.26317pt
 Footskip: 25.29494pt
 Columnsep and columnseprule: 10pt and 0pt
-Marginparsep and marginparwidth: 7pt and 37.21495pt
+Marginparsep and marginparwidth: 7pt and 28.67912pt
 Sidecapsep and sidecapwidth: 7pt and 51pt
 Sidebarhsep and sidebarwidth: 7pt and 51pt
 Sidebarvsep and sidebartopsep: 12pt and 0pt
@@ -1559,7 +1559,7 @@ File: Immagini/barcode_978-0-02-037909-6.png Graphic file (type png)
 <use Immagini/barcode_978-0-02-037909-6.png>
 Package luatex.def Info: Immagini/barcode_978-0-02-037909-6.png  used on input 
 line 79.
-(luatex.def)             Requested size: 102.30104pt x 50.18822pt.
+(luatex.def)             Requested size: 104.70107pt x 51.36346pt.
 File: Immagini/DiracEdizioniLogo.png Graphic file (type png)
 <use Immagini/DiracEdizioniLogo.png>
 Package luatex.def Info: Immagini/DiracEdizioniLogo.png  used on input line 83.
@@ -1650,23 +1650,20 @@ LaTeX Font Info:    Font shape `TU/GaramondLibre(0)/m/n' will be
 [23]
 
 [24]
-Underfull \vbox (badness 1038) has occurred while \output is active []
-
-
 
 [25]
 
 [26]
 
-[27]
+[27]) (./Capitoli/capitolo5.tex
 
-[28]) (./Capitoli/capitolo5.tex
+[28]
 
-[29]
-
-[30
+[29
 
 ]
+
+[30]
 
 [31]
 
@@ -1688,17 +1685,20 @@ Underfull \vbox (badness 1038) has occurred while \output is active []
 
 [40]
 
-[41]
+[41]) (./Capitoli/capitolo6.tex
 
-[42]) (./Capitoli/capitolo6.tex
+[42]
 
-[43]
-
-[44
+[43
 
 ]
 
+[44]
+
 [45]
+Underfull \vbox (badness 1038) has occurred while \output is active []
+
+
 
 [46]
 
@@ -1710,15 +1710,15 @@ Underfull \vbox (badness 1038) has occurred while \output is active []
 
 [50]
 
-[51]
+[51]) (./Capitoli/capitolo7.tex
 
-[52]) (./Capitoli/capitolo7.tex
+[52]
 
-[53]
-
-[54
+[53
 
 ]
+
+[54]
 
 [55]
 
@@ -1759,18 +1759,21 @@ Underfull \vbox (badness 1038) has occurred while \output is active []
 [73]
 
 [74]
+Underfull \vbox (badness 1377) has occurred while \output is active []
 
-[75]
+
+
+[75]) (./Capitoli/capitolo8.tex
 
 [76]
 
-[77]) (./Capitoli/capitolo8.tex
+[77
+
+]
 
 [78]
 
-[79
-
-]
+[79]
 
 [80]
 
@@ -1798,17 +1801,17 @@ Underfull \vbox (badness 1038) has occurred while \output is active []
 
 [92]
 
-[93]
+[93]) (./Capitoli/capitolo9.tex
 
 [94]
 
-[95]) (./Capitoli/capitolo9.tex
+[95
+
+]
 
 [96]
 
-[97
-
-]
+[97]
 
 [98]
 
@@ -1852,22 +1855,19 @@ Underfull \vbox (badness 1038) has occurred while \output is active []
 
 [118]
 
-[119]
+[119]) (./Capitoli/capitolo10.tex
 
 [120]
-Underfull \vbox (badness 1377) has occurred while \output is active []
 
+[121
 
+]
 
-[121]
-
-[122]) (./Capitoli/capitolo10.tex
+[122]
 
 [123]
 
-[124
-
-]
+[124]
 
 [125]
 
@@ -1875,13 +1875,7 @@ Underfull \vbox (badness 1377) has occurred while \output is active []
 
 [127]
 
-[128]
-
-[129]
-
-[130]
-
-[131] (c:/texlive/2024/texmf-dist/tex/generic/babel/locale/de/babel-ngerman.tex
+[128] (c:/texlive/2024/texmf-dist/tex/generic/babel/locale/de/babel-ngerman.tex
 Package babel Info: Importing basic data for ngerman
 (babel)             from babel-de.ini. Reported on input line 11.
 )
@@ -1892,21 +1886,27 @@ UTF-8 German hyphenation patterns (reformed orthography)
 German Hyphenation Patterns (Reformed Orthography, 2006) `dehyphn-x' 2021-02-26
  (WL)))
 
+[129]
+
+[130]
+
+[131]
+
 [132]
 
-[133]
+[133]) (./Capitoli/capitolo11.tex
 
 [134]
 
-[135]
+[135
 
-[136]) (./Capitoli/capitolo11.tex
+]
+
+[136]
 
 [137]
 
-[138
-
-]
+[138]
 
 [139]
 
@@ -1938,21 +1938,21 @@ German Hyphenation Patterns (Reformed Orthography, 2006) `dehyphn-x' 2021-02-26
 
 [153]
 
-[154]
+[154]) (./Capitoli/capitolo12.tex
 
 [155]
 
-[156]
+[156
+
+]
 
 [157]
 
-[158]) (./Capitoli/capitolo12.tex
+[158]
 
 [159]
 
-[160
-
-]
+[160]
 
 [161]
 
@@ -1977,9 +1977,6 @@ German Hyphenation Patterns (Reformed Orthography, 2006) `dehyphn-x' 2021-02-26
 [171]
 
 [172]
-Underfull \vbox (badness 1377) has occurred while \output is active []
-
-
 
 [173]
 
@@ -1987,21 +1984,21 @@ Underfull \vbox (badness 1377) has occurred while \output is active []
 
 [175]
 
-[176]
+[176]) (./Capitoli/capitolo13.tex
 
 [177]
 
-[178]
+[178
+
+]
 
 [179]
 
-[180]) (./Capitoli/capitolo13.tex
+[180]
 
 [181]
 
-[182
-
-]
+[182]
 
 [183]
 
@@ -2031,23 +2028,23 @@ Underfull \vbox (badness 1377) has occurred while \output is active []
 
 [196]
 
-[197]
+[197]) (./Capitoli/capitolo14.tex
 
 [198]
 
-[199]
+[199
+
+]
 
 [200]
 
 [201]
 
-[202]) (./Capitoli/capitolo14.tex
+[202]
 
 [203]
 
-[204
-
-]
+[204]
 
 [205]
 
@@ -2100,30 +2097,29 @@ Underfull \vbox (badness 1377) has occurred while \output is active []
 [229]
 
 [230]
+Underfull \vbox (badness 2698) has occurred while \output is active []
+
+
 
 [231]
 
 [232]
 
 [233]
-Underfull \vbox (badness 2698) has occurred while \output is active []
-
-
 
 [234]
 
 [235]
-Underfull \vbox (badness 1377) has occurred while \output is active []
-
-
 
 [236]
 
-[237]
+[237]) (./Capitoli/capitolo15.tex
 
 [238]
 
-[239]
+[239
+
+]
 
 [240]
 
@@ -2131,13 +2127,11 @@ Underfull \vbox (badness 1377) has occurred while \output is active []
 
 [242]
 
-[243]) (./Capitoli/capitolo15.tex
+[243]
 
 [244]
 
-[245
-
-]
+[245]
 
 [246]
 
@@ -2154,67 +2148,52 @@ Underfull \vbox (badness 1377) has occurred while \output is active []
 [252]
 
 [253]
-
-[254]
-
-[255]
-Underfull \vbox (badness 2698) has occurred while \output is active []
-
-
-
-[256]
-
-[257]
-
-[258]
-
-[259]
 LaTeX Font Info:    Font shape `TU/GaramondLibre(0)/b/n' will be
 (Font)              scaled to size 10.0pt on input line 955.
 LaTeX Font Info:    Font shape `TU/GaramondLibre(0)/b/it' will be
 (Font)              scaled to size 10.0pt on input line 955.
 
 
-[260]
+[254]
 
-[260]) ("./Il gioco di Ender.toc"
+[254]) ("./Il gioco di Ender.toc"
 Overfull \hbox (0.51996pt too wide) detected at line 13
- \TU/GaramondLibre(0)/b/n/10 124
+ \TU/GaramondLibre(0)/b/n/10 121
  []
 
 
 Overfull \hbox (0.51996pt too wide) detected at line 14
- \TU/GaramondLibre(0)/b/n/10 138
+ \TU/GaramondLibre(0)/b/n/10 135
  []
 
 
 Overfull \hbox (0.51996pt too wide) detected at line 15
- \TU/GaramondLibre(0)/b/n/10 160
+ \TU/GaramondLibre(0)/b/n/10 156
  []
 
 
 Overfull \hbox (0.51996pt too wide) detected at line 16
- \TU/GaramondLibre(0)/b/n/10 182
+ \TU/GaramondLibre(0)/b/n/10 178
  []
 
 
 Overfull \hbox (0.51996pt too wide) detected at line 17
- \TU/GaramondLibre(0)/b/n/10 204
+ \TU/GaramondLibre(0)/b/n/10 199
  []
 
 
 Overfull \hbox (0.51996pt too wide) detected at line 18
- \TU/GaramondLibre(0)/b/n/10 245
+ \TU/GaramondLibre(0)/b/n/10 239
  []
 
 
 Overfull \hbox (0.51996pt too wide) detected at line 19
- \TU/GaramondLibre(0)/b/n/10 261
+ \TU/GaramondLibre(0)/b/n/10 255
  []
 
 )
 
-[261]
+[255]
 \tf@toc=\write5
 
 \openout5 = Il gioco di Ender.toc
@@ -2231,7 +2210,7 @@ Here is how much of LuaTeX's memory you used:
  1377 words of node memory still in use:
    8 hlist, 2 vlist, 2 rule, 1 local_par, 8 glue, 4 kern, 1 penalty, 1 margin_ke
 rn, 4 glyph, 16 attribute, 205 glue_spec, 10 attribute_list, 3 write nodes
-   avail lists: 1:2,2:845,3:186,4:72,5:322,6:81,7:10291,8:1,9:358,10:33,11:1578
+   avail lists: 1:2,2:845,3:186,4:74,5:315,6:75,7:9333,8:1,9:358,10:34,11:1455
  49734 multiletter control sequences out of 65536+600000
  73 fonts using 17290895 bytes
  107i,12n,124p,1015b,533s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -2240,10 +2219,10 @@ oldItalic.otf><c:/texlive/2024/texmf-dist/fonts/opentype/public/garamond-libre/G
 aramondLibre-Italic.otf><c:/texlive/2024/texmf-dist/fonts/opentype/public/garamo
 nd-libre/GaramondLibre-Bold.otf><c:/texlive/2024/texmf-dist/fonts/opentype/publi
 c/garamond-libre/GaramondLibre-Regular.otf>
-Output written on Il gioco di Ender.pdf (271 pages, 9644941 bytes).
+Output written on Il gioco di Ender.pdf (265 pages, 9638310 bytes).
 
-PDF statistics: 888 PDF objects out of 1000 (max. 8388607)
- 594 compressed objects within 6 object streams
+PDF statistics: 869 PDF objects out of 1000 (max. 8388607)
+ 581 compressed objects within 6 object streams
  0 named destinations out of 1000 (max. 131072)
  16 words of extra memory for PDF output out of 10000 (max. 100000000)
 

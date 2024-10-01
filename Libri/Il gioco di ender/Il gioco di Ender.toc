@@ -5,15 +5,15 @@
 \contentsline {chapter}{\chapternumberline {2}PETER}{7}{}%
 \contentsline {chapter}{\chapternumberline {3}GRAFF}{12}{}%
 \contentsline {chapter}{\chapternumberline {4}LANCIO}{21}{}%
-\contentsline {chapter}{\chapternumberline {5}GIOCHI}{30}{}%
-\contentsline {chapter}{\chapternumberline {6}IL GIGANTE}{44}{}%
-\contentsline {chapter}{\chapternumberline {7}SALAMANDRA}{54}{}%
-\contentsline {chapter}{\chapternumberline {8}L'ORDA E IL BRANCO}{79}{}%
-\contentsline {chapter}{\chapternumberline {9}LOCKE E DEMOSTENE}{97}{}%
-\contentsline {chapter}{\chapternumberline {10}DRAGO}{124}{}%
-\contentsline {chapter}{\chapternumberline {11}VENI VIDI VICI}{138}{}%
-\contentsline {chapter}{\chapternumberline {12}BONZO}{160}{}%
-\contentsline {chapter}{\chapternumberline {13}VALENTINE}{182}{}%
-\contentsline {chapter}{\chapternumberline {14}IL MAESTRO DI ENDER}{204}{}%
-\contentsline {chapter}{\chapternumberline {15}L'ARALDO DEI DEFUNTI}{245}{}%
-\contentsline {chapter}{Indice}{261}{}%
+\contentsline {chapter}{\chapternumberline {5}GIOCHI}{29}{}%
+\contentsline {chapter}{\chapternumberline {6}IL GIGANTE}{43}{}%
+\contentsline {chapter}{\chapternumberline {7}SALAMANDRA}{53}{}%
+\contentsline {chapter}{\chapternumberline {8}L'ORDA E IL BRANCO}{77}{}%
+\contentsline {chapter}{\chapternumberline {9}LOCKE E DEMOSTENE}{95}{}%
+\contentsline {chapter}{\chapternumberline {10}DRAGO}{121}{}%
+\contentsline {chapter}{\chapternumberline {11}VENI VIDI VICI}{135}{}%
+\contentsline {chapter}{\chapternumberline {12}BONZO}{156}{}%
+\contentsline {chapter}{\chapternumberline {13}VALENTINE}{178}{}%
+\contentsline {chapter}{\chapternumberline {14}IL MAESTRO DI ENDER}{199}{}%
+\contentsline {chapter}{\chapternumberline {15}L'ARALDO DEI DEFUNTI}{239}{}%
+\contentsline {chapter}{Indice}{255}{}%
