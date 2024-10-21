@@ -1,7 +1,7 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.9.7)  21 OCT 2024 02:17
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.9.7)  21 OCT 2024 03:12
  restricted system commands enabled.
-**"Il gioco di Ender.tex"
-("./Il gioco di Ender.tex"
+**"il giorno di colombo.tex"
+("./il giorno di colombo.tex"
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-16>
 Lua module: luaotfload 2024-02-14 3.28 Lua based OpenType font support
@@ -1358,8 +1358,8 @@ Package: afterpage 2023/07/04 v1.08 After-Page Package (DPC)
 \AP@partial=\box84
 \AP@footins=\box85
 ))
-("./Il gioco di Ender.aux")
-\openout1 = Il gioco di Ender.aux
+("./il giorno di colombo.aux")
+\openout1 = il giorno di colombo.aux
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
@@ -1492,9 +1492,11 @@ e
 ))
 (./Preambolo/preambolo.tex
 LaTeX Font Info:    Font shape `TU/GaramondLibre(0)/m/sc' will be
-(Font)              scaled to size 10.0pt on input line 11.
+(Font)              scaled to size 10.0pt on input line 9.
 LaTeX Font Info:    Font shape `TU/GaramondLibre(0)/m/sc' will be
-(Font)              scaled to size 20.74pt on input line 11.
+(Font)              scaled to size 20.74pt on input line 9.
+LaTeX Font Info:    Font shape `TU/GaramondLibre(0)/b/sc' will be
+(Font)              scaled to size 20.74pt on input line 9.
 
 
 [1
@@ -1507,17 +1509,17 @@ LaTeX Font Info:    Font shape `TU/GaramondLibre(0)/m/sc' will be
 ]
 \drop=\skip278
 LaTeX Font Info:    Font shape `TU/GaramondLibre(0)/m/n' will be
-(Font)              scaled to size 20.74pt on input line 31.
+(Font)              scaled to size 20.74pt on input line 29.
 LaTeX Font Info:    Font shape `TU/GaramondLibre(0)/b/n' will be
-(Font)              scaled to size 20.74pt on input line 31.
+(Font)              scaled to size 20.74pt on input line 29.
 LaTeX Font Info:    Font shape `TU/GaramondLibre(0)/m/n' will be
-(Font)              scaled to size 10.95pt on input line 31.
+(Font)              scaled to size 10.95pt on input line 29.
 LaTeX Font Info:    Font shape `TU/GaramondLibre(0)/m/sc' will be
-(Font)              scaled to size 10.95pt on input line 31.
+(Font)              scaled to size 10.95pt on input line 29.
 <Immagini/DiracEdizioniLogo.png, id=13, 4111.36pt x 4111.36pt>
 File: Immagini/DiracEdizioniLogo.png Graphic file (type png)
 <use Immagini/DiracEdizioniLogo.png>
-Package luatex.def Info: Immagini/DiracEdizioniLogo.png  used on input line 31.
+Package luatex.def Info: Immagini/DiracEdizioniLogo.png  used on input line 29.
 
 (luatex.def)             Requested size: 13.55058pt x 13.55058pt.
 
@@ -1526,14 +1528,14 @@ Package luatex.def Info: Immagini/DiracEdizioniLogo.png  used on input line 31.
 
 [3]
 LaTeX Font Info:    Font shape `TU/GaramondLibre(0)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 41.
+(Font)              scaled to size 8.0pt on input line 39.
 LaTeX Font Info:    Font shape `TU/GaramondLibre(0)/m/it' will be
-(Font)              scaled to size 8.0pt on input line 41.
+(Font)              scaled to size 8.0pt on input line 39.
 LaTeX Font Info:    Font shape `TU/GaramondLibre(0)/m/n' will be
-(Font)              scaled to size 6.0pt on input line 70.
+(Font)              scaled to size 6.0pt on input line 68.
 LaTeX Font Info:    Font shape `TU/GaramondLibre(0)/m/n' will be
-(Font)              scaled to size 5.0pt on input line 70.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 70.
+(Font)              scaled to size 5.0pt on input line 68.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 68.
 
  (c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -1541,7 +1543,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 (c:/texlive/2024/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 70.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 68.
 
 
 (c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -1554,222 +1556,443 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-<Immagini/barcode_978-0-02-037909-6.png, id=21, 533.995pt x 261.97874pt>
-File: Immagini/barcode_978-0-02-037909-6.png Graphic file (type png)
-<use Immagini/barcode_978-0-02-037909-6.png>
-Package luatex.def Info: Immagini/barcode_978-0-02-037909-6.png  used on input 
-line 79.
+<Immagini/barcode_978-1-15-346086-6.png, id=21, 533.995pt x 261.97874pt>
+File: Immagini/barcode_978-1-15-346086-6.png Graphic file (type png)
+<use Immagini/barcode_978-1-15-346086-6.png>
+Package luatex.def Info: Immagini/barcode_978-1-15-346086-6.png  used on input 
+line 77.
 (luatex.def)             Requested size: 104.70107pt x 51.36346pt.
 File: Immagini/DiracEdizioniLogo.png Graphic file (type png)
 <use Immagini/DiracEdizioniLogo.png>
-Package luatex.def Info: Immagini/DiracEdizioniLogo.png  used on input line 83.
+Package luatex.def Info: Immagini/DiracEdizioniLogo.png  used on input line 81.
 
 (luatex.def)             Requested size: 9.47285pt x 9.47285pt.
-
+)
+(./Capitoli/capitolo1.tex
 
 LaTeX Font Info:    Font shape `TU/GaramondLibre(0)/m/sl' in size <10> not avai
 lable
 (Font)              Font shape `TU/GaramondLibre(0)/m/it' tried instead on inpu
-t line 88.
+t line 2.
 LaTeX Font Info:    Font shape `TU/GaramondLibre(0)/m/it' will be
-(Font)              scaled to size 10.0pt on input line 88.
-[4<./Immagini/barcode_978-0-02-037909-6.png>]
-LaTeX Font Info:    Font shape `TU/GaramondLibre(0)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 88.
-LaTeX Font Info:    Font shape `TU/GaramondLibre(0)/m/sc' will be
-(Font)              scaled to size 12.0pt on input line 88.
-
-
-[1
-
-]
-
-[2]) (./Capitoli/capitolo1.tex
-
-[3]
-
-[4
-
-]
+(Font)              scaled to size 10.0pt on input line 2.
+[4<./Immagini/barcode_978-1-15-346086-6.png>]
 LaTeX Font Info:    Font shape `TU/GaramondLibre(0)/m/n' will be
 (Font)              scaled to size 7.0pt on input line 3.
 
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+
 
 [1
+
 
 ]
 
 [2]
 
 [3]
+Underfull \hbox (badness 10000) in paragraph at lines 158--159
+
+ []
+
+
 
 [4]
 
-[5]) (./Capitoli/capitolo2.tex
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 311--312
+
+ []
+
+
 
 [6]
+Underfull \vbox (badness 1377) has occurred while \output is active []
 
-[7
 
-]
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 383--384
+
+ []
+
+
 
 [8]
 
 [9]
 
-[10]) (./Capitoli/capitolo3.tex
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 572--573
+
+ []
+
+
 
 [11]
 
-[12
-
-]
+[12]
 
 [13]
 
 [14]
 
-[15]
+[15]) (./Capitoli/capitolo2.tex
 
 [16]
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
-[17]
+ []
+
+
+
+[17
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
+
+ []
+
+
 
 [18]
 
-[19]) (./Capitoli/capitolo4.tex
+[19]
 
 [20]
 
-[21
+[21]
+Underfull \hbox (badness 10000) in paragraph at lines 300--301
 
-]
+ []
+
+
 
 [22]
+Underfull \hbox (badness 10000) in paragraph at lines 339--340
+
+ []
+
+
 
 [23]
+Underfull \hbox (badness 10000) in paragraph at lines 409--410
+
+ []
+
+
 
 [24]
+Underfull \hbox (badness 10000) in paragraph at lines 470--471
+
+ []
+
+
+Underfull \vbox (badness 1377) has occurred while \output is active []
+
+
 
 [25]
 
 [26]
+Underfull \hbox (badness 10000) in paragraph at lines 606--607
 
-[27]) (./Capitoli/capitolo5.tex
+ []
+
+
+
+[27]
 
 [28]
+Underfull \hbox (badness 10000) in paragraph at lines 712--713
 
-[29
+ []
 
-]
+
+
+[29]
 
 [30]
 
 [31]
+Underfull \hbox (badness 10000) in paragraph at lines 826--827
+
+ []
+
+
+Underfull \vbox (badness 1377) has occurred while \output is active []
+
+
 
 [32]
 
-[33]
+[33]) (./Capitoli/capitolo3.tex
 
 [34]
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
-[35]
+ []
 
-[36]
 
-[37]
 
-[38]
-
-[39]
-
-[40]
-
-[41]) (./Capitoli/capitolo6.tex
-
-[42]
-
-[43
+[35
 
 ]
+
+[36]
+Underfull \hbox (badness 10000) in paragraph at lines 108--109
+
+ []
+
+
+
+[37]
+Underfull \hbox (badness 10000) in paragraph at lines 180--181
+
+ []
+
+
+
+[38]
+Underfull \hbox (badness 10000) in paragraph at lines 228--229
+
+ []
+
+
+
+[39]
+Underfull \hbox (badness 10000) in paragraph at lines 306--307
+
+ []
+
+
+
+[40]
+Underfull \hbox (badness 10000) in paragraph at lines 349--350
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 373--374
+
+ []
+
+
+
+[41]
+
+[42]
+Underfull \hbox (badness 10000) in paragraph at lines 455--456
+
+ []
+
+
+
+[43]
+Underfull \hbox (badness 10000) in paragraph at lines 507--508
+
+ []
+
+
 
 [44]
 
 [45]
-Underfull \vbox (badness 1038) has occurred while \output is active []
+Underfull \hbox (badness 10000) in paragraph at lines 599--600
+
+ []
 
 
 
 [46]
+Underfull \hbox (badness 10000) in paragraph at lines 695--696
+
+ []
+
+
 
 [47]
 
 [48]
 
 [49]
+Underfull \vbox (badness 2698) has occurred while \output is active []
+
+
 
 [50]
+Underfull \hbox (badness 10000) in paragraph at lines 903--904
 
-[51]) (./Capitoli/capitolo7.tex
+ []
+
+
+
+[51]
 
 [52]
 
-[53
+[53]
+Underfull \hbox (badness 10000) in paragraph at lines 1066--1067
 
-]
+ []
+
+
 
 [54]
+Underfull \hbox (badness 10000) in paragraph at lines 1115--1116
+
+ []
+
+
 
 [55]
 
 [56]
 
 [57]
+Underfull \hbox (badness 10000) in paragraph at lines 1288--1289
+
+ []
+
+
 
 [58]
 
 [59]
+Underfull \hbox (badness 10000) in paragraph at lines 1358--1359
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1385--1386
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1398--1399
+
+ []
+
+
 
 [60]
+Underfull \hbox (badness 10000) in paragraph at lines 1443--1444
+
+ []
+
+
 
 [61]
+Underfull \hbox (badness 10000) in paragraph at lines 1505--1506
+
+ []
+
+
 
 [62]
 
 [63]
+Underfull \hbox (badness 10000) in paragraph at lines 1628--1629
+
+ []
+
+
 
 [64]
+Underfull \hbox (badness 10000) in paragraph at lines 1698--1699
+
+ []
+
+
 
 [65]
+Underfull \hbox (badness 10000) in paragraph at lines 1732--1733
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1753--1754
+
+ []
+
+
 
 [66]
 
 [67]
 
 [68]
+Underfull \hbox (badness 10000) in paragraph at lines 1909--1910
 
-[69]
+ []
+
+
+
+[69]) (./Capitoli/capitolo4.tex
 
 [70]
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
-[71]
-
-[72]
-
-[73]
-
-[74]
-Underfull \vbox (badness 1377) has occurred while \output is active []
+ []
 
 
 
-[75]) (./Capitoli/capitolo8.tex
-
-[76]
-
-[77
+[71
 
 ]
+
+[72]
+Underfull \hbox (badness 10000) in paragraph at lines 139--140
+
+ []
+
+
+
+[73]
+Underfull \hbox (badness 10000) in paragraph at lines 163--164
+
+ []
+
+
+Underfull \vbox (badness 1038) has occurred while \output is active []
+
+
+
+[74]
+Underfull \hbox (badness 10000) in paragraph at lines 210--211
+
+ []
+
+
+
+[75]
+
+[76]
+Underfull \hbox (badness 10000) in paragraph at lines 328--329
+
+ []
+
+
+
+[77]
+Underfull \hbox (badness 10000) in paragraph at lines 383--384
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 399--400
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 411--412
+
+ []
+
+
 
 [78]
 
@@ -1780,16 +2003,33 @@ Underfull \vbox (badness 1377) has occurred while \output is active []
 [81]
 
 [82]
+Underfull \hbox (badness 10000) in paragraph at lines 659--660
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 678--679
+
+ []
+
+
 
 [83]
 
 [84]
 
-[85]
+[85]) (./Capitoli/capitolo5.tex
 
 [86]
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
-[87]
+ []
+
+
+
+[87
+
+]
 
 [88]
 
@@ -1798,50 +2038,115 @@ Underfull \vbox (badness 1377) has occurred while \output is active []
 [90]
 
 [91]
+Underfull \hbox (badness 10000) in paragraph at lines 289--290
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 315--316
+
+ []
+
+
 
 [92]
+Underfull \hbox (badness 10000) in paragraph at lines 325--326
 
-[93]) (./Capitoli/capitolo9.tex
+ []
+
+
+
+[93]
+Underfull \hbox (badness 10000) in paragraph at lines 404--405
+
+ []
+
+
 
 [94]
 
-[95
-
-]
+[95]
 
 [96]
+Underfull \hbox (badness 10000) in paragraph at lines 563--564
+
+ []
+
+
 
 [97]
 
 [98]
 
 [99]
+Underfull \hbox (badness 10000) in paragraph at lines 745--746
+
+ []
+
+
 
 [100]
 
 [101]
 
 [102]
+Underfull \hbox (badness 10000) in paragraph at lines 894--895
+
+ []
+
+
 
 [103]
 
 [104]
+Underfull \hbox (badness 10000) in paragraph at lines 983--984
+
+ []
+
+
 
 [105]
+Underfull \hbox (badness 10000) in paragraph at lines 1048--1049
+
+ []
+
+
 
 [106]
+Underfull \hbox (badness 10000) in paragraph at lines 1085--1086
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1118--1119
+
+ []
+
+
 
 [107]
 
 [108]
+Underfull \hbox (badness 10000) in paragraph at lines 1213--1214
 
-[109]
+ []
+
+
+
+[109]) (./Capitoli/capitolo6.tex
 
 [110]
 
-[111]
+[111
+
+]
 
 [112]
+Underfull \hbox (badness 10000) in paragraph at lines 122--123
+
+ []
+
+
 
 [113]
 
@@ -1854,16 +2159,39 @@ Underfull \vbox (badness 1377) has occurred while \output is active []
 [117]
 
 [118]
+Underfull \hbox (badness 10000) in paragraph at lines 467--468
 
-[119]) (./Capitoli/capitolo10.tex
+ []
+
+
+
+[119]
+Underfull \hbox (badness 10000) in paragraph at lines 529--530
+
+ []
+
+
 
 [120]
+Underfull \hbox (badness 10000) in paragraph at lines 556--557
 
-[121
+ []
 
-]
+
+
+[121]
+Underfull \hbox (badness 10000) in paragraph at lines 614--615
+
+ []
+
+
 
 [122]
+Underfull \hbox (badness 10000) in paragraph at lines 714--715
+
+ []
+
+
 
 [123]
 
@@ -1875,28 +2203,29 @@ Underfull \vbox (badness 1377) has occurred while \output is active []
 
 [127]
 
-[128] (c:/texlive/2024/texmf-dist/tex/generic/babel/locale/de/babel-ngerman.tex
-Package babel Info: Importing basic data for ngerman
-(babel)             from babel-de.ini. Reported on input line 11.
-)
-(c:/texlive/2024/texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-de-1996.tex
-UTF-8 German hyphenation patterns (reformed orthography)
-(c:/texlive/2024/texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-de-1996.tex
-
-German Hyphenation Patterns (Reformed Orthography, 2006) `dehyphn-x' 2021-02-26
- (WL)))
+[128]
 
 [129]
 
 [130]
 
 [131]
+Underfull \hbox (badness 10000) in paragraph at lines 1199--1200
 
-[132]
+ []
 
-[133]) (./Capitoli/capitolo11.tex
+
+
+[132]) (./Capitoli/capitolo7.tex
+
+[133]
 
 [134]
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+
 
 [135
 
@@ -1905,12 +2234,30 @@ German Hyphenation Patterns (Reformed Orthography, 2006) `dehyphn-x' 2021-02-26
 [136]
 
 [137]
+Underfull \hbox (badness 10000) in paragraph at lines 219--220
+
+ []
+
+
 
 [138]
+Underfull \hbox (badness 10000) in paragraph at lines 260--261
+
+ []
+
+
 
 [139]
+Underfull \hbox (badness 10000) in paragraph at lines 337--338
+
+ []
+
+
 
 [140]
+Underfull \vbox (badness 2698) has occurred while \output is active []
+
+
 
 [141]
 
@@ -1920,31 +2267,67 @@ German Hyphenation Patterns (Reformed Orthography, 2006) `dehyphn-x' 2021-02-26
 
 [144]
 
-[145]
+[145]) (./Capitoli/capitolo8.tex
 
 [146]
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
-[147]
+ []
+
+
+
+[147
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 83--84
+
+ []
+
+
 
 [148]
 
 [149]
+Underfull \hbox (badness 10000) in paragraph at lines 177--178
+
+ []
+
+
+Underfull \vbox (badness 1377) has occurred while \output is active []
+
+
 
 [150]
+Underfull \hbox (badness 10000) in paragraph at lines 242--243
+
+ []
+
+
 
 [151]
+Underfull \hbox (badness 10000) in paragraph at lines 299--300
+
+ []
+
+
+Underfull \vbox (badness 1895) has occurred while \output is active []
+
+
 
 [152]
 
 [153]
 
-[154]) (./Capitoli/capitolo12.tex
+[154]
 
 [155]
+Underfull \hbox (badness 10000) in paragraph at lines 530--531
 
-[156
+ []
 
-]
+
+
+[156]
 
 [157]
 
@@ -1953,8 +2336,18 @@ German Hyphenation Patterns (Reformed Orthography, 2006) `dehyphn-x' 2021-02-26
 [159]
 
 [160]
+Underfull \hbox (badness 10000) in paragraph at lines 770--771
+
+ []
+
+
 
 [161]
+Underfull \hbox (badness 10000) in paragraph at lines 830--831
+
+ []
+
+
 
 [162]
 
@@ -1962,19 +2355,39 @@ German Hyphenation Patterns (Reformed Orthography, 2006) `dehyphn-x' 2021-02-26
 
 [164]
 
-[165]
+[165]) (./Capitoli/capitolo9.tex
 
 [166]
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
-[167]
+ []
+
+
+
+[167
+
+]
 
 [168]
 
 [169]
+Underfull \hbox (badness 10000) in paragraph at lines 204--205
+
+ []
+
+
 
 [170]
 
 [171]
+Underfull \hbox (badness 10000) in paragraph at lines 288--289
+
+ []
+
+
+Underfull \vbox (badness 1377) has occurred while \output is active []
+
+
 
 [172]
 
@@ -1984,13 +2397,11 @@ German Hyphenation Patterns (Reformed Orthography, 2006) `dehyphn-x' 2021-02-26
 
 [175]
 
-[176]) (./Capitoli/capitolo13.tex
+[176]
 
 [177]
 
-[178
-
-]
+[178]
 
 [179]
 
@@ -2000,11 +2411,18 @@ German Hyphenation Patterns (Reformed Orthography, 2006) `dehyphn-x' 2021-02-26
 
 [182]
 
-[183]
+[183]) (./Capitoli/capitolo10.tex
 
 [184]
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
-[185]
+ []
+
+
+
+[185
+
+]
 
 [186]
 
@@ -2023,18 +2441,29 @@ German Hyphenation Patterns (Reformed Orthography, 2006) `dehyphn-x' 2021-02-26
 [193]
 
 [194]
+Underfull \hbox (badness 10000) in paragraph at lines 645--646
+
+ []
+
+
 
 [195]
 
 [196]
 
-[197]) (./Capitoli/capitolo14.tex
+[197]
 
 [198]
+Underfull \hbox (badness 10000) in paragraph at lines 914--915
 
-[199
+ []
 
-]
+
+
+[199]
+Underfull \vbox (badness 2698) has occurred while \output is active []
+
+
 
 [200]
 
@@ -2052,15 +2481,30 @@ German Hyphenation Patterns (Reformed Orthography, 2006) `dehyphn-x' 2021-02-26
 
 [207]
 
-[208]
+[208]) (./Capitoli/capitolo11.tex
 
 [209]
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
-[210]
+ []
+
+
+
+[210
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
+
+ []
+
+
 
 [211]
 
 [212]
+Underfull \vbox (badness 2698) has occurred while \output is active []
+
+
 
 [213]
 
@@ -2071,10 +2515,25 @@ German Hyphenation Patterns (Reformed Orthography, 2006) `dehyphn-x' 2021-02-26
 [216]
 
 [217]
+Underfull \hbox (badness 10000) in paragraph at lines 464--465
+
+ []
+
+
 
 [218]
+Underfull \hbox (badness 10000) in paragraph at lines 521--522
+
+ []
+
+
 
 [219]
+Underfull \hbox (badness 10000) in paragraph at lines 591--592
+
+ []
+
+
 
 [220]
 
@@ -2083,10 +2542,22 @@ German Hyphenation Patterns (Reformed Orthography, 2006) `dehyphn-x' 2021-02-26
 [222]
 
 [223]
+Underfull \hbox (badness 10000) in paragraph at lines 800--801
+
+ []
+
+) (./Capitoli/capitolo12.tex
 
 [224]
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
-[225]
+ []
+
+
+
+[225
+
+]
 
 [226]
 
@@ -2095,37 +2566,59 @@ German Hyphenation Patterns (Reformed Orthography, 2006) `dehyphn-x' 2021-02-26
 [228]
 
 [229]
+Underfull \hbox (badness 10000) in paragraph at lines 304--305
+
+ []
+
+
 
 [230]
-Underfull \vbox (badness 2698) has occurred while \output is active []
-
-
 
 [231]
 
 [232]
 
 [233]
+Underfull \hbox (badness 10000) in paragraph at lines 575--576
+
+ []
+
+
 
 [234]
 
 [235]
+Underfull \hbox (badness 10000) in paragraph at lines 656--657
+
+ []
+
+
 
 [236]
 
-[237]) (./Capitoli/capitolo15.tex
+[237]
 
 [238]
+Underfull \hbox (badness 10000) in paragraph at lines 860--861
 
-[239
+ []
 
-]
 
-[240]
+
+[239]
+
+[240]) (./Capitoli/capitolo13.tex
 
 [241]
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
-[242]
+ []
+
+
+
+[242
+
+]
 
 [243]
 
@@ -2136,8 +2629,16 @@ Underfull \vbox (badness 2698) has occurred while \output is active []
 [246]
 
 [247]
+Underfull \vbox (badness 1038) has occurred while \output is active []
+
+
 
 [248]
+Underfull \hbox (badness 10000) in paragraph at lines 464--465
+
+ []
+
+
 
 [249]
 
@@ -2148,56 +2649,581 @@ Underfull \vbox (badness 2698) has occurred while \output is active []
 [252]
 
 [253]
-LaTeX Font Info:    Font shape `TU/GaramondLibre(0)/b/n' will be
-(Font)              scaled to size 10.0pt on input line 955.
-LaTeX Font Info:    Font shape `TU/GaramondLibre(0)/b/it' will be
-(Font)              scaled to size 10.0pt on input line 955.
+Underfull \hbox (badness 10000) in paragraph at lines 761--762
+
+ []
+
 
 
 [254]
 
-[254]) ("./Il gioco di Ender.toc"
-Overfull \hbox (0.51996pt too wide) detected at line 13
- \TU/GaramondLibre(0)/b/n/10 121
+[255]
+Underfull \hbox (badness 10000) in paragraph at lines 874--875
+
  []
 
 
-Overfull \hbox (0.51996pt too wide) detected at line 14
+Underfull \hbox (badness 10000) in paragraph at lines 889--890
+
+ []
+
+
+
+[256]
+
+[257]) (./Capitoli/capitolo14.tex
+
+[258]
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+
+
+[259
+
+]
+
+[260]
+Underfull \hbox (badness 10000) in paragraph at lines 130--131
+
+ []
+
+
+
+[261]
+
+[262]
+
+[263]
+
+[264]
+Underfull \vbox (badness 2698) has occurred while \output is active []
+
+
+
+[265]
+
+[266]
+
+[267]
+Underfull \hbox (badness 10000) in paragraph at lines 505--506
+
+ []
+
+
+
+[268]
+
+[269]
+Underfull \hbox (badness 10000) in paragraph at lines 657--658
+
+ []
+
+
+
+[270]
+Underfull \hbox (badness 10000) in paragraph at lines 719--720
+
+ []
+
+
+
+[271]
+Underfull \hbox (badness 10000) in paragraph at lines 774--775
+
+ []
+
+) (./Capitoli/capitolo15.tex
+
+[272]
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+
+
+[273
+
+]
+
+[274]
+
+[275]
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
+
+ []
+
+
+
+[276]
+
+[277]
+Underfull \hbox (badness 10000) in paragraph at lines 300--301
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 334--335
+
+ []
+
+
+
+[278]
+Underfull \hbox (badness 10000) in paragraph at lines 385--386
+
+ []
+
+
+
+[279]
+
+[280]
+Underfull \hbox (badness 10000) in paragraph at lines 455--456
+
+ []
+
+
+
+[281]
+Underfull \hbox (badness 10000) in paragraph at lines 531--532
+
+ []
+
+
+
+[282]
+
+[283]
+
+[284]
+
+[285]
+
+[286]
+
+[287]
+
+[288]
+
+[289]
+
+[290]
+Underfull \hbox (badness 10000) in paragraph at lines 1038--1039
+
+ []
+
+
+
+[291]) (./Capitoli/capitolo16.tex
+
+[292]
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+
+
+[293
+
+]
+
+[294]
+
+[295]
+Underfull \vbox (badness 1377) has occurred while \output is active []
+
+
+
+[296]
+Underfull \hbox (badness 10000) in paragraph at lines 261--262
+
+ []
+
+
+
+[297]
+
+[298]
+
+[299]
+Underfull \hbox (badness 10000) in paragraph at lines 405--406
+
+ []
+
+
+
+[300]
+
+[301]
+
+[302]
+Underfull \hbox (badness 10000) in paragraph at lines 599--600
+
+ []
+
+
+
+[303]
+Underfull \hbox (badness 10000) in paragraph at lines 668--669
+
+ []
+
+
+
+[304]
+Underfull \hbox (badness 10000) in paragraph at lines 702--703
+
+ []
+
+
+
+[305]
+
+[306]
+
+[307]
+
+[308]
+Underfull \hbox (badness 10000) in paragraph at lines 941--942
+
+ []
+
+
+
+[309]
+
+[310]
+Underfull \hbox (badness 10000) in paragraph at lines 1082--1083
+
+ []
+
+
+
+[311]
+
+[312]
+
+[313]
+Underfull \hbox (badness 10000) in paragraph at lines 1210--1211
+
+ []
+
+
+
+[314]
+Underfull \hbox (badness 10000) in paragraph at lines 1315--1316
+
+ []
+
+
+
+[315]
+
+[316]
+Underfull \hbox (badness 10000) in paragraph at lines 1390--1391
+
+ []
+
+
+
+[317]
+Underfull \hbox (badness 10000) in paragraph at lines 1442--1443
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1488--1489
+
+ []
+
+
+
+[318]
+
+[319]
+Underfull \hbox (badness 10000) in paragraph at lines 1554--1555
+
+ []
+
+
+
+[320]
+
+[321]) (./Capitoli/capitolo17.tex
+
+[322]
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
+
+ []
+
+
+
+[323
+
+]
+
+[324]
+
+[325]
+Underfull \hbox (badness 10000) in paragraph at lines 253--254
+
+ []
+
+
+
+[326]
+Underfull \hbox (badness 10000) in paragraph at lines 294--295
+
+ []
+
+
+
+[327]
+
+[328]
+
+[329]
+Underfull \hbox (badness 10000) in paragraph at lines 494--495
+
+ []
+
+
+
+[330]
+
+[331]) (./Capitoli/capitolo18.tex
+
+[332]
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+
+
+[333
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+
+ []
+
+
+
+[334]
+Underfull \hbox (badness 10000) in paragraph at lines 129--130
+
+ []
+
+
+
+[335]
+
+[336]
+Underfull \hbox (badness 10000) in paragraph at lines 271--272
+
+ []
+
+
+
+[337]
+Underfull \hbox (badness 10000) in paragraph at lines 296--297
+
+ []
+
+
+
+[338]
+
+[339]
+
+[340]
+Underfull \vbox (badness 1377) has occurred while \output is active []
+
+
+
+[341]
+Underfull \hbox (badness 10000) in paragraph at lines 516--517
+
+ []
+
+
+
+[342]
+
+[343]
+Underfull \hbox (badness 10000) in paragraph at lines 662--663
+
+ []
+
+
+
+[344]
+
+[345]
+Underfull \hbox (badness 10000) in paragraph at lines 756--757
+
+ []
+
+
+
+[346]
+
+[347]
+
+[348]) (./Capitoli/capitolo19.tex
+
+[349]
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+
+
+[350
+
+]
+
+[351]
+
+[352]
+
+[353]
+Underfull \hbox (badness 10000) in paragraph at lines 227--228
+
+ []
+
+
+
+[354]
+
+[355]
+Underfull \hbox (badness 10000) in paragraph at lines 345--346
+
+ []
+
+LaTeX Font Info:    Font shape `TU/GaramondLibre(0)/b/n' will be
+(Font)              scaled to size 10.0pt on input line 348.
+) (./Capitoli/capitolo20.tex
+
+[356]
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+
+
+[357
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--60
+
+ []
+
+
+
+[358])
+
+[359] ("./il giorno di colombo.toc"
+Overfull \hbox (0.51996pt too wide) detected at line 9
+ \TU/GaramondLibre(0)/b/n/10 111
+ []
+
+
+Overfull \hbox (0.51996pt too wide) detected at line 10
  \TU/GaramondLibre(0)/b/n/10 135
  []
 
 
+Overfull \hbox (0.51996pt too wide) detected at line 11
+ \TU/GaramondLibre(0)/b/n/10 147
+ []
+
+
+Overfull \hbox (0.51996pt too wide) detected at line 12
+ \TU/GaramondLibre(0)/b/n/10 167
+ []
+
+
+Overfull \hbox (0.51996pt too wide) detected at line 13
+ \TU/GaramondLibre(0)/b/n/10 185
+ []
+
+
+Overfull \hbox (0.51996pt too wide) detected at line 14
+ \TU/GaramondLibre(0)/b/n/10 210
+ []
+
+
 Overfull \hbox (0.51996pt too wide) detected at line 15
- \TU/GaramondLibre(0)/b/n/10 156
+ \TU/GaramondLibre(0)/b/n/10 225
  []
 
 
 Overfull \hbox (0.51996pt too wide) detected at line 16
- \TU/GaramondLibre(0)/b/n/10 178
+ \TU/GaramondLibre(0)/b/n/10 242
  []
 
 
 Overfull \hbox (0.51996pt too wide) detected at line 17
- \TU/GaramondLibre(0)/b/n/10 199
+ \TU/GaramondLibre(0)/b/n/10 259
  []
 
 
 Overfull \hbox (0.51996pt too wide) detected at line 18
- \TU/GaramondLibre(0)/b/n/10 239
+ \TU/GaramondLibre(0)/b/n/10 273
  []
 
 
 Overfull \hbox (0.51996pt too wide) detected at line 19
- \TU/GaramondLibre(0)/b/n/10 255
+ \TU/GaramondLibre(0)/b/n/10 293
+ []
+
+
+Overfull \hbox (0.51996pt too wide) detected at line 20
+ \TU/GaramondLibre(0)/b/n/10 323
+ []
+
+
+Overfull \hbox (0.51996pt too wide) detected at line 21
+ \TU/GaramondLibre(0)/b/n/10 333
+ []
+
+
+Overfull \hbox (0.51996pt too wide) detected at line 22
+ \TU/GaramondLibre(0)/b/n/10 350
+ []
+
+
+
+[360]
+Overfull \hbox (0.51996pt too wide) detected at line 23
+ \TU/GaramondLibre(0)/b/n/10 357
+ []
+
+
+Overfull \hbox (0.51996pt too wide) detected at line 24
+ \TU/GaramondLibre(0)/b/n/10 360
  []
 
 )
 
-[255]
+[361]
 \tf@toc=\write5
 
-\openout5 = Il gioco di Ender.toc
- ("./Il gioco di Ender.aux")
+\openout5 = il giorno di colombo.toc
+ ("./il giorno di colombo.aux")
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2020/03/25>
@@ -2205,24 +3231,23 @@ L3 programming layer <2020/03/25>
 )
 
 Here is how much of LuaTeX's memory you used:
- 28038 strings out of 475910
- 100000,1977958 words of node,token memory allocated
- 1377 words of node memory still in use:
-   8 hlist, 2 vlist, 2 rule, 1 local_par, 8 glue, 4 kern, 1 penalty, 1 margin_ke
-rn, 4 glyph, 16 attribute, 205 glue_spec, 10 attribute_list, 3 write nodes
-   avail lists: 1:2,2:845,3:186,4:74,5:315,6:75,7:9333,8:1,9:358,10:34,11:1455
- 49734 multiletter control sequences out of 65536+600000
- 73 fonts using 17290895 bytes
- 107i,12n,124p,1015b,533s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2024/texmf-dist/fonts/opentype/public/garamond-libre/GaramondLibre-B
-oldItalic.otf><c:/texlive/2024/texmf-dist/fonts/opentype/public/garamond-libre/G
-aramondLibre-Italic.otf><c:/texlive/2024/texmf-dist/fonts/opentype/public/garamo
-nd-libre/GaramondLibre-Bold.otf><c:/texlive/2024/texmf-dist/fonts/opentype/publi
-c/garamond-libre/GaramondLibre-Regular.otf>
-Output written on Il gioco di Ender.pdf (265 pages, 9638310 bytes).
+ 27953 strings out of 475910
+ 125007,1977958 words of node,token memory allocated
+ 1361 words of node memory still in use:
+   8 hlist, 2 vlist, 2 rule, 1 local_par, 8 glue, 4 kern, 1 penalty, 3 glyph, 16
+ attribute, 204 glue_spec, 10 attribute_list, 3 write nodes
+   avail lists: 1:2,2:968,3:211,4:88,5:399,6:66,7:11240,8:2,9:395,10:37,11:1629
+ 49636 multiletter control sequences out of 65536+600000
+ 71 fonts using 16105215 bytes
+ 107i,12n,124p,1018b,533s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2024/texmf-dist/fonts/opentype/public/garamond-libre/GaramondLibre-I
+talic.otf><c:/texlive/2024/texmf-dist/fonts/opentype/public/garamond-libre/Garam
+ondLibre-Regular.otf><c:/texlive/2024/texmf-dist/fonts/opentype/public/garamond-
+libre/GaramondLibre-Bold.otf>
+Output written on il giorno di colombo.pdf (366 pages, 10017647 bytes).
 
-PDF statistics: 869 PDF objects out of 1000 (max. 8388607)
- 581 compressed objects within 6 object streams
+PDF statistics: 1178 PDF objects out of 1200 (max. 8388607)
+ 790 compressed objects within 8 object streams
  0 named destinations out of 1000 (max. 131072)
  16 words of extra memory for PDF output out of 10000 (max. 100000000)
 

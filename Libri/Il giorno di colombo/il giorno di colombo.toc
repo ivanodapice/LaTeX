@@ -1,0 +1,24 @@
+\changetocdepth {2}
+\babel@toc {italian}{}\relax 
+\babel@toc {italian}{}\relax 
+\contentsline {chapter}{\chapternumberline {1}IL GIORNO DI COLOMBO}{1}{}%
+\contentsline {chapter}{\chapternumberline {2}DISLOCAMENTO}{17}{}%
+\contentsline {chapter}{\chapternumberline {3}CAMPO ALFA}{35}{}%
+\contentsline {chapter}{\chapternumberline {4}PARADISO}{71}{}%
+\contentsline {chapter}{\chapternumberline {5}INTELLIGENCE}{87}{}%
+\contentsline {chapter}{\chapternumberline {6}FORTE FRECCIA}{111}{}%
+\contentsline {chapter}{\chapternumberline {7}COLONNELLO}{135}{}%
+\contentsline {chapter}{\chapternumberline {8}PIANTANDO PATATE}{147}{}%
+\contentsline {chapter}{\chapternumberline {9}CAPITOLO 9}{167}{}%
+\contentsline {chapter}{\chapternumberline {10}SKIPPY}{185}{}%
+\contentsline {chapter}{\chapternumberline {11}ALL'ARREMBAGGIO}{210}{}%
+\contentsline {chapter}{\chapternumberline {12}ALLEGRA BANDA DI PIRATI}{225}{}%
+\contentsline {chapter}{\chapternumberline {13}OLANDESE VOLANTE}{242}{}%
+\contentsline {chapter}{\chapternumberline {14}TUTE SPAZIALI}{259}{}%
+\contentsline {chapter}{\chapternumberline {15}ASSALTO}{273}{}%
+\contentsline {chapter}{\chapternumberline {16}CASA}{293}{}%
+\contentsline {chapter}{\chapternumberline {17}CON LE MANI IN MANO}{323}{}%
+\contentsline {chapter}{\chapternumberline {18}TIC TOC, TIC TOC}{333}{}%
+\contentsline {chapter}{\chapternumberline {19}IN PARTENZA}{350}{}%
+\contentsline {chapter}{\chapternumberline {20}NOTA DELL'AUTORE}{357}{}%
+\contentsline {chapter}{Indice}{360}{}%
