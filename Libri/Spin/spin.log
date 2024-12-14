@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.9.7)  5 DEC 2024 14:35
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.9.7)  12 DEC 2024 18:32
  restricted system commands enabled.
 **spin.tex
 (./spin.tex
@@ -1713,15 +1713,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
 [6
 Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
 not loaded.]
 
 [7
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
 Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
 not loaded.
 Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
@@ -1729,13 +1723,9 @@ not loaded.]
 
 [8
 Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
 not loaded.]
 
 [9
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
 Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
 not loaded.]) (./Capitoli/capitolo3.tex
 
@@ -1748,288 +1738,426 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
 [11
 
-]
 
-[12]
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
+
+[12
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
 [13]
 
-[14]
+[14
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
-[15]
+[15
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
-[16]
+[16
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
-[17]
+[17
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
-[18]
+[18
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
-[19]
+[19
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
-[20]) (./Capitoli/capitolo4.tex
+[20
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
-[21]
+[21
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]) (./Capitoli/capitolo4.tex
+
+[22]
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
 
 
 
-[22
+[23
 
 ]
 
-[23]
-
-[24]
+[24
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
 [25]
 
-[26]) (./Capitoli/capitolo5.tex
+[26
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
-[27]
+[27]) (./Capitoli/capitolo5.tex
+
+[28]
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
 
 
 
-[28
+[29
 
-]
 
-[29]) (./Capitoli/capitolo6.tex
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
 
 Overfull \vbox (0.27531pt too high) has occurred while \output is active []
 
 
-[30]
+[30]) (./Capitoli/capitolo6.tex
 
 [31
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
-]
+[32
 
-[32]
 
-[33]
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
+
+[33
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
 [34]
 
-[35]
+[35
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
 [36]
 
-[37]
+[37
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
-[38]
+[38
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
-[39]
+[39
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
-[40]) (./Capitoli/capitolo7.tex
+[40]
 
 [41]
+
+[42
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]) (./Capitoli/capitolo7.tex
+
+[43]
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
 
 
 
-[42
+[44
 
-]
 
-[43]
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
-[44]
-
-[45]
+[45
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
 [46]
 
-[47]
+[47
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
 [48]
 
 [49]
 
-[50]
+[50
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
-[51]
+[51
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
-[52]) (./Capitoli/capitolo8.tex
+[52]
 
-[53]
-Underfull \hbox (badness 10000) in paragraph at lines 3--4
-
- []
-
-
+[53
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
 [54
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
-]
+[55
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]) (./Capitoli/capitolo8.tex
 
-[55]
-
-
-Overfull \vbox (0.27531pt too high) has occurred while \output is active []
-
-
-[56]
-
-[57]
-
-
-Overfull \vbox (0.27531pt too high) has occurred while \output is active []
-
-
-[58]) (./Capitoli/capitolo9.tex
-
-[59]
+[56
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
 
 
 
-[60
+[57
 
-]
 
-[61]
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
+
+
+Overfull \vbox (0.27531pt too high) has occurred while \output is active []
+
+
+[58
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
+
+[59
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
+
+
+Overfull \vbox (0.27531pt too high) has occurred while \output is active []
+
+
+[60]
+
+[61
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]) (./Capitoli/capitolo9.tex
+
+
+Overfull \vbox (0.27531pt too high) has occurred while \output is active []
+
 
 [62]
 
 [63]
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
-[64]
+ []
+
+
+
+[64
+
+
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
 [65]
 
 [66]
 
-[67]) (./Capitoli/capitolo10.tex
+[67]
 
-[68]
-Underfull \hbox (badness 10000) in paragraph at lines 3--4
+[68
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
- []
+[69]
 
-
-
-[69
-
-]
-
-[70]
+[70
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
 [71]
 
-[72]
+[72
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]) (./Capitoli/capitolo10.tex
 
 [73]
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
-[74]
+ []
+
+
+
+[74
+
+]
 
 [75]
 
-[76]) (./Capitoli/capitolo11.tex
+[76
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
 [77]
-Underfull \hbox (badness 10000) in paragraph at lines 3--4
-
- []
-
-
 
 [78
-
-]
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
 [79]
 
-[80]
+[80
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
 [81]
 
-[82]
+[82]) (./Capitoli/capitolo11.tex
 
-[83]) (./Capitoli/capitolo12.tex
-
-[84]
+[83]
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
 
 
 
-[85
+[84
+
+
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
+
+[85]
+
+[86
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
+
+[87
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
+
+[88
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
+
+[89]) (./Capitoli/capitolo12.tex
+
+[90
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+
+
+[91
 
 ]
-
-[86]
-
-[87]
-
-[88]
-
-[89]
-
-[90]
-
-[91]
 
 [92]
 
 [93]
 
-[94]
+[94
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
-[95]
+[95
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
-[96]
+[96
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
 [97]
 
-[98]) (./Capitoli/capitolo13.tex
+[98
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
-[99]
+[99
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
+
+[100
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
+
+[101
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
+
+[102
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
+
+[103
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
+
+[104
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
+
+[105
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]) (./Capitoli/capitolo13.tex
+
+[106]
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
 
 
 
-[100
-
-]
-
-[101]
+[107
 
 
-Overfull \vbox (0.27531pt too high) has occurred while \output is active []
-
-
-[102]
-
-[103]
-
-
-Overfull \vbox (0.27531pt too high) has occurred while \output is active []
-
-
-[104]
-
-[105]
-
-
-Overfull \vbox (0.27531pt too high) has occurred while \output is active []
-
-
-[106]
-
-[107]
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
 
 Overfull \vbox (0.27531pt too high) has occurred while \output is active []
@@ -2037,180 +2165,245 @@ Overfull \vbox (0.27531pt too high) has occurred while \output is active []
 
 [108]
 
-[109]
+[109
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
 
 Overfull \vbox (0.27531pt too high) has occurred while \output is active []
 
 
-[110]) (./Capitoli/capitolo14.tex
+[110]
 
-[111]
+[111
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
+
+
+Overfull \vbox (0.27531pt too high) has occurred while \output is active []
+
+
+[112
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
+
+[113]
+
+
+Overfull \vbox (0.27531pt too high) has occurred while \output is active []
+
+
+[114
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
+
+[115]
+
+
+Overfull \vbox (0.27531pt too high) has occurred while \output is active []
+
+
+[116]
+
+[117
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]) (./Capitoli/capitolo14.tex
+
+
+Overfull \vbox (0.27531pt too high) has occurred while \output is active []
+
+
+[118]
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
 
 
 
-[112
+[119
 
 ]
-
-[113]
 
 
 Class memoir Warning: The material used in the headers is too large
 (12.16203pt) for the given head height (11.0pt), it is recommended to
 either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 224.
+(in both cases you will find help in the memoir manual). on input line 140.
 
 
 Overfull \vbox (1.16203pt too high) has occurred while \output is active []
 
 
-[114]
+[120]
 
-[115]
-
-
-Overfull \vbox (1.16203pt too high) has occurred while \output is active []
-
-
-[116]
-
-[117]
+[121
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
 
 Overfull \vbox (1.16203pt too high) has occurred while \output is active []
 
-
-[118]) (./Capitoli/capitolo15.tex
-
-[119]
-Underfull \hbox (badness 10000) in paragraph at lines 3--4
-
- []
-
-
-
-[120
-
-]
-
-[121]
 
 [122]
 
-[123]
+[123
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
-[124]
+
+Overfull \vbox (1.16203pt too high) has occurred while \output is active []
+
+
+[124
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
 [125]
 
-[126]
+
+Overfull \vbox (1.16203pt too high) has occurred while \output is active []
+
+
+[126
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]) (./Capitoli/capitolo15.tex
 
 [127]
-
-[128]) (./Capitoli/capitolo16.tex
-
-[129]
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
 
 
 
-[130
+[128
 
 ]
+
+[129
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
+
+[130
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
 [131]
 
-
-Overfull \vbox (0.27531pt too high) has occurred while \output is active []
-
-
-[132]
+[132
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
 [133]
 
-
-Overfull \vbox (0.27531pt too high) has occurred while \output is active []
-
-
 [134]
 
-[135]
+[135
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
-
-Overfull \vbox (0.27531pt too high) has occurred while \output is active []
-
-
-[136]
+[136
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]) (./Capitoli/capitolo16.tex
 
 [137]
-
-
-Overfull \vbox (0.27531pt too high) has occurred while \output is active []
-
-
-[138]) (./Capitoli/capitolo17.tex
-
-[139]
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
 
 
 
-[140
+[138
 
-]
 
-[141]
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
+
+[139
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
+
+
+Overfull \vbox (0.27531pt too high) has occurred while \output is active []
+
+
+[140]
+
+[141
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
+
+
+Overfull \vbox (0.27531pt too high) has occurred while \output is active []
+
 
 [142]
 
 [143]
 
-[144]
+
+Overfull \vbox (0.27531pt too high) has occurred while \output is active []
+
+
+[144
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
 [145]
 
-[146]
+
+Overfull \vbox (0.27531pt too high) has occurred while \output is active []
+
+
+[146
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]) (./Capitoli/capitolo17.tex
 
 [147]
-
-[148]
-
-[149]
-
-[150]
-
-[151]) (./Capitoli/capitolo18.tex
-
-[152]
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
 
 
 
-[153
+[148
 
 ]
 
+[149]
+
+[150
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
+
+[151]
+
+[152]
+
+[153]
+
 [154]
 
-[155]
+[155
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
-[156]
+[156
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
 [157]
 
 [158]
 
-[159]) (./Capitoli/capitolo19.tex
+[159
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]) (./Capitoli/capitolo18.tex
 
 [160]
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
@@ -2227,118 +2420,176 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
 [163]
 
-[164]
+[164
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
 [165]
 
-[166]
+[166
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
-[167]
+[167
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
-[168]
+[168]) (./Capitoli/capitolo19.tex
 
 [169]
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
-[170]
+ []
 
-[171]
+
+
+[170
+
+]
+
+[171
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
 [172]
 
-[173]) (./Capitoli/capitolo20.tex
+[173
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
-[174]
-Underfull \hbox (badness 10000) in paragraph at lines 3--4
+[174
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
- []
+[175]
 
+[176
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
+[177
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
-[175
-
-]
-
-
-Overfull \vbox (0.27531pt too high) has occurred while \output is active []
-
-
-[176]
-
-[177]
-
-
-Overfull \vbox (0.27531pt too high) has occurred while \output is active []
-
-
-[178]) (./Capitoli/capitolo21.tex
+[178
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
 [179]
-Underfull \hbox (badness 10000) in paragraph at lines 3--4
-
- []
-
-
 
 [180
-
-]
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
 [181]
 
-[182]
+[182
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
-[183]
+[183]) (./Capitoli/capitolo20.tex
 
 [184]
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
-[185]
+ []
 
-[186]
+
+
+[185
+
+]
+
+
+Overfull \vbox (0.27531pt too high) has occurred while \output is active []
+
+
+[186
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
 [187]
 
-[188]
 
-[189]
+Overfull \vbox (0.27531pt too high) has occurred while \output is active []
 
-[190]
+
+[188
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]) (./Capitoli/capitolo21.tex
+
+[189
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+
+
+[190
+
+
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
 [191]
 
 [192]
 
-[193]) (./Capitoli/capitolo22.tex
+[193]
 
 [194]
-Underfull \hbox (badness 10000) in paragraph at lines 3--4
-
- []
-
-
 
 [195
-
-]
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
 [196]
 
-[197]
+[197
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
-[198]
+[198
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
 [199]
 
 [200]
 
-[201]
+[201
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
-[202]
+[202
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
-[203]
+[203
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
-[204]) (./Capitoli/capitolo23.tex
+[204
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]) (./Capitoli/capitolo22.tex
 
-[205]
+[205
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
@@ -2347,38 +2598,47 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
 [206
 
-]
 
-[207]
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
+[207
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
-Overfull \vbox (0.27531pt too high) has occurred while \output is active []
+[208
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
-
-[208]) (./Capitoli/capitolo24.tex
-
-[209]
-Underfull \hbox (badness 10000) in paragraph at lines 3--4
-
- []
-
-
+[209
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
 [210
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
-]
+[211
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
-[211]
+[212
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
-[212]
+[213
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
-[213]
-
-[214]
+[214
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
 [215]
 
-[216]) (./Capitoli/capitolo25.tex
+[216
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]) (./Capitoli/capitolo23.tex
 
 [217]
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
@@ -2389,187 +2649,353 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
 [218
 
-]
 
-[219]
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
-[220]
+[219
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
-[221]
+
+Overfull \vbox (0.27531pt too high) has occurred while \output is active []
+
+
+[220
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
+
+[221]) (./Capitoli/capitolo24.tex
+
+
+Overfull \vbox (0.27531pt too high) has occurred while \output is active []
+
 
 [222]
-
-[223]
-
-[224]
-
-[225]
-
-[226]) (./Capitoli/capitolo26.tex
-
-[227]
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
 
 
+
+[223
+
+]
+
+[224
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
+
+[225
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
+
+[226
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
+
+[227
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
 [228
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
-]
+[229
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
-[229]
-
-[230]
+[230]) (./Capitoli/capitolo25.tex
 
 [231]
-
-[232]
-
-[233]
-
-[234]
-
-[235]
-
-[236]) (./Capitoli/capitolo27.tex
-
-[237]
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
 
 
 
-[238
+[232
 
 ]
+
+[233
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
+
+[234
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
+
+[235
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
+
+[236
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
+
+[237]
+
+[238
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
 [239]
 
-[240]
+[240
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]) (./Capitoli/capitolo26.tex
 
-[241]
-
-[242]) (./Capitoli/capitolo28.tex
-
-[243]
+[241
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
 
 
 
-[244
+[242
 
 ]
+
+[243]
+
+[244
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
 [245]
 
-[246]
+[246
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
-[247]
+[247
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
-[248]
+[248
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
-[249]
+[249
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
-[250]) (./Capitoli/capitolo29.tex
+[250]
 
-[251]
+[251
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]) (./Capitoli/capitolo27.tex
+
+[252]
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
 
 
 
-[252
-
-]
-
-[253]
+[253
 
 
-Overfull \vbox (0.27531pt too high) has occurred while \output is active []
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
-
-[254]
+[254
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
 [255]
 
+[256
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
-Overfull \vbox (0.27531pt too high) has occurred while \output is active []
+[257
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]) (./Capitoli/capitolo28.tex
 
-
-[256]
-
-[257]
-
-
-Overfull \vbox (0.27531pt too high) has occurred while \output is active []
-
-
-[258]
-
-[259]
-
-
-Overfull \vbox (0.27531pt too high) has occurred while \output is active []
-
-
-[260]
-
-[261]
-
-
-Overfull \vbox (0.27531pt too high) has occurred while \output is active []
-
-
-[262]
-
-[263]
-
-
-Overfull \vbox (0.27531pt too high) has occurred while \output is active []
-
-
-[264]
-
-[265]
-
-
-Overfull \vbox (0.27531pt too high) has occurred while \output is active []
-
-
-[266]
-
-[267]) (./Capitoli/capitolo30.tex
-
-
-Overfull \vbox (0.27531pt too high) has occurred while \output is active []
-
-
-[268]
+[258
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
 
 
 
+[259
+
+
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
+
+[260
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
+
+[261]
+
+[262
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
+
+[263
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
+
+[264]
+
+[265
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]) (./Capitoli/capitolo29.tex
+
+[266
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
+
+[267]
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+
+
+[268
+
+
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
+
 [269
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
-]
 
-[270]) (./Capitoli/capitolo31.tex
+Overfull \vbox (0.27531pt too high) has occurred while \output is active []
+
+
+[270
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
 
 [271]
+
+
+Overfull \vbox (0.27531pt too high) has occurred while \output is active []
+
+
+[272
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
+
+[273
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
+
+
+Overfull \vbox (0.27531pt too high) has occurred while \output is active []
+
+
+[274
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
+
+[275
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
+
+
+Overfull \vbox (0.27531pt too high) has occurred while \output is active []
+
+
+[276]
+
+[277
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
+
+
+Overfull \vbox (0.27531pt too high) has occurred while \output is active []
+
+
+[278
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
+
+[279]
+
+
+Overfull \vbox (0.27531pt too high) has occurred while \output is active []
+
+
+[280
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
+
+[281
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
+
+
+Overfull \vbox (0.27531pt too high) has occurred while \output is active []
+
+
+[282
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
+
+[283
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]) (./Capitoli/capitolo30.tex
+
+
+Overfull \vbox (0.27531pt too high) has occurred while \output is active []
+
+
+[284
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+
+
+[285
+
+
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]
+
+[286
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
+not loaded.]) (./Capitoli/capitolo31.tex
+
+[287]
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
 
 )
 
-[272
+[288
 
 ] (./spin.toc
 LaTeX Font Info:    Font shape `TU/GaramondLibre(0)/b/n' will be
@@ -2577,105 +3003,70 @@ LaTeX Font Info:    Font shape `TU/GaramondLibre(0)/b/n' will be
 LaTeX Font Info:    Font shape `TU/GaramondLibre(0)/b/n' will be
 (Font)              scaled to size 6.0pt on input line 4.
 
-Overfull \hbox (0.46797pt too wide) detected at line 16
- \TU/GaramondLibre(0)/b/n/9 100
- []
-
-
-Overfull \hbox (0.46797pt too wide) detected at line 17
- \TU/GaramondLibre(0)/b/n/9 112
- []
-
-
-Overfull \hbox (0.46797pt too wide) detected at line 18
- \TU/GaramondLibre(0)/b/n/9 120
- []
-
-
-Overfull \hbox (0.46797pt too wide) detected at line 19
- \TU/GaramondLibre(0)/b/n/9 130
- []
-
-
-Overfull \hbox (0.46797pt too wide) detected at line 20
- \TU/GaramondLibre(0)/b/n/9 140
- []
-
-
-Overfull \hbox (0.46797pt too wide) detected at line 21
- \TU/GaramondLibre(0)/b/n/9 153
- []
-
-
-Overfull \hbox (0.46797pt too wide) detected at line 22
- \TU/GaramondLibre(0)/b/n/9 161
- []
-
-
 Overfull \hbox (0.46797pt too wide) detected at line 23
- \TU/GaramondLibre(0)/b/n/9 175
+ \TU/GaramondLibre(0)/b/n/9 102
  []
 
 
 Overfull \hbox (0.46797pt too wide) detected at line 24
- \TU/GaramondLibre(0)/b/n/9 180
+ \TU/GaramondLibre(0)/b/n/9 105
  []
 
 
 Overfull \hbox (0.46797pt too wide) detected at line 25
- \TU/GaramondLibre(0)/b/n/9 195
+ \TU/GaramondLibre(0)/b/n/9 114
  []
 
 
 
-[273]
+[289]
 Overfull \hbox (0.46797pt too wide) detected at line 26
- \TU/GaramondLibre(0)/b/n/9 206
+ \TU/GaramondLibre(0)/b/n/9 120
  []
 
 
 Overfull \hbox (0.46797pt too wide) detected at line 27
- \TU/GaramondLibre(0)/b/n/9 210
+ \TU/GaramondLibre(0)/b/n/9 123
  []
 
 
 Overfull \hbox (0.46797pt too wide) detected at line 28
- \TU/GaramondLibre(0)/b/n/9 218
+ \TU/GaramondLibre(0)/b/n/9 128
  []
 
 
 Overfull \hbox (0.46797pt too wide) detected at line 29
- \TU/GaramondLibre(0)/b/n/9 228
+ \TU/GaramondLibre(0)/b/n/9 133
  []
 
 
 Overfull \hbox (0.46797pt too wide) detected at line 30
- \TU/GaramondLibre(0)/b/n/9 238
+ \TU/GaramondLibre(0)/b/n/9 139
  []
 
 
 Overfull \hbox (0.46797pt too wide) detected at line 31
- \TU/GaramondLibre(0)/b/n/9 244
+ \TU/GaramondLibre(0)/b/n/9 143
  []
 
 
 Overfull \hbox (0.46797pt too wide) detected at line 32
- \TU/GaramondLibre(0)/b/n/9 252
+ \TU/GaramondLibre(0)/b/n/9 148
  []
 
 
 Overfull \hbox (0.46797pt too wide) detected at line 33
- \TU/GaramondLibre(0)/b/n/9 269
+ \TU/GaramondLibre(0)/b/n/9 157
  []
 
 
 Overfull \hbox (0.46797pt too wide) detected at line 34
- \TU/GaramondLibre(0)/b/n/9 272
+ \TU/GaramondLibre(0)/b/n/9 159
  []
 
 
 Overfull \hbox (0.46797pt too wide) detected at line 35
- \TU/GaramondLibre(0)/b/n/9 273
+ \TU/GaramondLibre(0)/b/n/9 160
  []
 
 )
@@ -2687,7 +3078,7 @@ either increase the head height or redesign the header
 
 
 
-[274]
+[290]
 \tf@toc=\write5
 
 \openout5 = spin.toc
@@ -2708,7 +3099,7 @@ Here is how much of LuaTeX's memory you used:
  1372 words of node memory still in use:
    8 hlist, 2 vlist, 2 rule, 1 local_par, 8 glue, 4 kern, 1 penalty, 3 glyph, 18
  attribute, 205 glue_spec, 11 attribute_list, 3 write nodes
-   avail lists: 1:4,2:1140,3:241,4:89,5:373,6:85,7:11910,8:2,9:461,10:39,11:1803
+   avail lists: 1:4,2:1139,3:241,4:92,5:383,6:94,7:11637,8:2,9:461,10:39,11:1750
 
  51316 multiletter control sequences out of 65536+600000
  72 fonts using 16106559 bytes
@@ -2717,10 +3108,10 @@ Here is how much of LuaTeX's memory you used:
 talic.otf><c:/texlive/2024/texmf-dist/fonts/opentype/public/garamond-libre/Garam
 ondLibre-Regular.otf><c:/texlive/2024/texmf-dist/fonts/opentype/public/garamond-
 libre/GaramondLibre-Bold.otf>
-Output written on spin.pdf (279 pages, 9871468 bytes).
+Output written on spin.pdf (295 pages, 11865602 bytes).
 
-PDF statistics: 906 PDF objects out of 1000 (max. 8388607)
- 606 compressed objects within 7 object streams
+PDF statistics: 956 PDF objects out of 1000 (max. 8388607)
+ 640 compressed objects within 7 object streams
  0 named destinations out of 1000 (max. 131072)
  16 words of extra memory for PDF output out of 10000 (max. 100000000)
 
