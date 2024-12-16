@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.9.7)  12 DEC 2024 18:32
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.9.7)  14 DEC 2024 17:54
  restricted system commands enabled.
 **spin.tex
 (./spin.tex
@@ -1645,12 +1645,11 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-<Immagini/barcode_978-1-15-346086-6.png, id=21, 533.995pt x 261.97874pt>
-File: Immagini/barcode_978-1-15-346086-6.png Graphic file (type png)
-<use Immagini/barcode_978-1-15-346086-6.png>
-Package luatex.def Info: Immagini/barcode_978-1-15-346086-6.png  used on input 
-line 80.
-(luatex.def)             Requested size: 107.4011pt x 52.69063pt.
+<Immagini/barcode.jpg, id=21, 170.3163pt x 75.4017pt>
+File: Immagini/barcode.jpg Graphic file (type jpg)
+<use Immagini/barcode.jpg>
+Package luatex.def Info: Immagini/barcode.jpg  used on input line 80.
+(luatex.def)             Requested size: 107.4011pt x 47.54817pt.
 File: Immagini/DiracEdizioniLogo.png Graphic file (type png)
 <use Immagini/DiracEdizioniLogo.png>
 Package luatex.def Info: Immagini/DiracEdizioniLogo.png  used on input line 84.
@@ -1665,7 +1664,7 @@ able
 t line 2.
 LaTeX Font Info:    Font shape `TU/GaramondLibre(0)/m/it' will be
 (Font)              scaled to size 9.0pt on input line 2.
-[4<./Immagini/barcode_978-1-15-346086-6.png>]
+[4<./Immagini/barcode.jpg>]
 LaTeX Font Info:    Font shape `TU/GaramondLibre(0)/m/n' will be
 (Font)              scaled to size 6.0pt on input line 3.
 
@@ -3003,70 +3002,105 @@ LaTeX Font Info:    Font shape `TU/GaramondLibre(0)/b/n' will be
 LaTeX Font Info:    Font shape `TU/GaramondLibre(0)/b/n' will be
 (Font)              scaled to size 6.0pt on input line 4.
 
+Overfull \hbox (0.46797pt too wide) detected at line 16
+ \TU/GaramondLibre(0)/b/n/9 107
+ []
+
+
+Overfull \hbox (0.46797pt too wide) detected at line 17
+ \TU/GaramondLibre(0)/b/n/9 119
+ []
+
+
+Overfull \hbox (0.46797pt too wide) detected at line 18
+ \TU/GaramondLibre(0)/b/n/9 128
+ []
+
+
+Overfull \hbox (0.46797pt too wide) detected at line 19
+ \TU/GaramondLibre(0)/b/n/9 138
+ []
+
+
+Overfull \hbox (0.46797pt too wide) detected at line 20
+ \TU/GaramondLibre(0)/b/n/9 148
+ []
+
+
+Overfull \hbox (0.46797pt too wide) detected at line 21
+ \TU/GaramondLibre(0)/b/n/9 161
+ []
+
+
+Overfull \hbox (0.46797pt too wide) detected at line 22
+ \TU/GaramondLibre(0)/b/n/9 170
+ []
+
+
 Overfull \hbox (0.46797pt too wide) detected at line 23
- \TU/GaramondLibre(0)/b/n/9 102
+ \TU/GaramondLibre(0)/b/n/9 185
  []
 
 
 Overfull \hbox (0.46797pt too wide) detected at line 24
- \TU/GaramondLibre(0)/b/n/9 105
+ \TU/GaramondLibre(0)/b/n/9 190
  []
 
 
 Overfull \hbox (0.46797pt too wide) detected at line 25
- \TU/GaramondLibre(0)/b/n/9 114
+ \TU/GaramondLibre(0)/b/n/9 206
  []
 
 
 
 [289]
 Overfull \hbox (0.46797pt too wide) detected at line 26
- \TU/GaramondLibre(0)/b/n/9 120
+ \TU/GaramondLibre(0)/b/n/9 218
  []
 
 
 Overfull \hbox (0.46797pt too wide) detected at line 27
- \TU/GaramondLibre(0)/b/n/9 123
+ \TU/GaramondLibre(0)/b/n/9 223
  []
 
 
 Overfull \hbox (0.46797pt too wide) detected at line 28
- \TU/GaramondLibre(0)/b/n/9 128
+ \TU/GaramondLibre(0)/b/n/9 232
  []
 
 
 Overfull \hbox (0.46797pt too wide) detected at line 29
- \TU/GaramondLibre(0)/b/n/9 133
+ \TU/GaramondLibre(0)/b/n/9 242
  []
 
 
 Overfull \hbox (0.46797pt too wide) detected at line 30
- \TU/GaramondLibre(0)/b/n/9 139
+ \TU/GaramondLibre(0)/b/n/9 253
  []
 
 
 Overfull \hbox (0.46797pt too wide) detected at line 31
- \TU/GaramondLibre(0)/b/n/9 143
+ \TU/GaramondLibre(0)/b/n/9 259
  []
 
 
 Overfull \hbox (0.46797pt too wide) detected at line 32
- \TU/GaramondLibre(0)/b/n/9 148
+ \TU/GaramondLibre(0)/b/n/9 268
  []
 
 
 Overfull \hbox (0.46797pt too wide) detected at line 33
- \TU/GaramondLibre(0)/b/n/9 157
+ \TU/GaramondLibre(0)/b/n/9 285
  []
 
 
 Overfull \hbox (0.46797pt too wide) detected at line 34
- \TU/GaramondLibre(0)/b/n/9 159
+ \TU/GaramondLibre(0)/b/n/9 288
  []
 
 
 Overfull \hbox (0.46797pt too wide) detected at line 35
- \TU/GaramondLibre(0)/b/n/9 160
+ \TU/GaramondLibre(0)/b/n/9 289
  []
 
 )
@@ -3094,23 +3128,23 @@ LaTeX Warning: There were multiply-defined labels.
 )
 
 Here is how much of LuaTeX's memory you used:
- 29742 strings out of 475910
+ 29744 strings out of 475910
  125067,1977958 words of node,token memory allocated
  1372 words of node memory still in use:
    8 hlist, 2 vlist, 2 rule, 1 local_par, 8 glue, 4 kern, 1 penalty, 3 glyph, 18
  attribute, 205 glue_spec, 11 attribute_list, 3 write nodes
    avail lists: 1:4,2:1139,3:241,4:92,5:383,6:94,7:11637,8:2,9:461,10:39,11:1750
 
- 51316 multiletter control sequences out of 65536+600000
+ 51318 multiletter control sequences out of 65536+600000
  72 fonts using 16106559 bytes
- 107i,16n,124p,1000b,535s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 107i,16n,124p,1000b,536s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2024/texmf-dist/fonts/opentype/public/garamond-libre/GaramondLibre-I
 talic.otf><c:/texlive/2024/texmf-dist/fonts/opentype/public/garamond-libre/Garam
 ondLibre-Regular.otf><c:/texlive/2024/texmf-dist/fonts/opentype/public/garamond-
 libre/GaramondLibre-Bold.otf>
-Output written on spin.pdf (295 pages, 11865602 bytes).
+Output written on spin.pdf (295 pages, 11894734 bytes).
 
-PDF statistics: 956 PDF objects out of 1000 (max. 8388607)
+PDF statistics: 955 PDF objects out of 1000 (max. 8388607)
  640 compressed objects within 7 object streams
  0 named destinations out of 1000 (max. 131072)
  16 words of extra memory for PDF output out of 10000 (max. 100000000)
